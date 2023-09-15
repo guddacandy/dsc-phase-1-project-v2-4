@@ -53,7 +53,7 @@ From the dataset I was able to plot a bar graph to show which studios have produ
 
 ### Conclusion
 
-To enter the film industry successfully, Microsoft's new movie studio should create a diverse portfolio of films within these recommended genres, carefully manage budgets, and prioritize audience satisfaction. Additionally, building strong relationships with industry professionals and leveraging Microsoft's existing resources and technologies can enhance their competitive edge.
+To enter the film industry successfully, Microsoft's new movie studio should create a diverse portfolio of films within the recomended genres, carefully manage budgets, and prioritize audience satisfaction. Additionally, building strong relationships with industry professionals and leveraging Microsoft's existing resources and technologies can enhance their competitive edge.
 
 
 
